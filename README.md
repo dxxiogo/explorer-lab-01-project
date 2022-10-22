@@ -21,6 +21,14 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+## Aprendizados
+* Criação de máscaras para input
+* Utilização de expressões regulares para entrada de dados dentro do input
+* Funcionamento dos eventos dentro da DOM, e a manipulação de elementos dentro da página
+* Uso Vite para o empacotamento de arquivos e a importação dentro JavaScript
+* Seleção de elementos dentro da DOM
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -45,4 +53,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+♥ Rocketseat [Participe da nossa comunidade!](https://discord.gg/rocketseat)
