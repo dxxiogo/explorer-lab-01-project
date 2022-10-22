@@ -25,7 +25,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 * Criação de máscaras para input
 * Utilização de expressões regulares para entrada de dados dentro do input
 * Funcionamento dos eventos dentro da DOM, e a manipulação de elementos dentro da página
-* Uso Vite para o empacotamento de arquivos e a importação dentro JavaScript
+* Uso do Vite para o empacotamento de arquivos e a importação dentro do JavaScript
 * Seleção de elementos dentro da DOM
 
 
